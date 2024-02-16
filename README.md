@@ -5,4 +5,4 @@
 - 🔭 I am open for a job
 - ✍️ I'm currently working on [Verico](https://discord.gg/Z9WygpghVx/)
 - 🌱 I’m currently learning [Svelte](https://svelte.dev/) and [Elysia](https://elysiajs.com/)
-- 📫 Contact me by [E-Mail (holyb@holyb.xyz)](mailto:holyb@holyb.xyz/) or [Discord (holybaechu)](https://discord.com/users/485289286246334476)
+- 📫 Contact me through [E-Mail (holyb@holyb.xyz)](mailto:holyb@holyb.xyz/) or [Discord (holybaechu)](https://discord.com/users/485289286246334476)
