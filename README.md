@@ -4,9 +4,8 @@ I'm a middle school student, studying at [Changdeok Middle School](https://namu.
 
 ## 📱 What I do?
 Currently I'm working on projects such as:
-- NameDex - Private scraper for Minecraft API (similar to [laby.net](https://laby.net)) ***Future public release planned***
 - [Polymotion.js](https://github.com/PolymotionJS/polymotion) - Create dynamic videos programmatically with speed and flexibility — a framework agnostic library for all Vite-compatible tools.
-- Private self-hosted Minecraft server - Custom gameplay mechanics and server management tools written from scratch by me
+- [holybaechu/homelab](https://github.com/holybaechu/homelab) - A Kubernetes homelab setup using Talos Linux + ArgoCD optimized for single-node clusters
 
 ## 🦾 My skills
 <img align="left" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
