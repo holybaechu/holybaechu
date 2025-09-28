@@ -6,6 +6,7 @@ I'm a middle school student, studying at [Changdeok Middle School](https://namu.
 Currently I'm working on projects such as:
 - Quillframe - Create dynamic videos programmatically with speed and flexibility — a framework agnostic library for all Vite-compatible tools.
 - [holybaechu/homelab](https://github.com/holybaechu/homelab) - A Kubernetes homelab setup using Talos Linux + ArgoCD optimized for single-node clusters
+- [Flux Records](https://youtube.com/@FluxRecords) - A music lyrics YouTube channel that is (almost) automated
 
 ## 🦾 My skills
 <img align="left" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
