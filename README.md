@@ -4,7 +4,7 @@ I'm a middle school student, studying at [Changdeok Middle School](https://namu.
 
 ## 📱 What I do?
 Currently I'm working on projects such as:
-- [Polymotion.js](https://github.com/PolymotionJS/polymotion) - Create dynamic videos programmatically with speed and flexibility — a framework agnostic library for all Vite-compatible tools.
+- Quillframe - Create dynamic videos programmatically with speed and flexibility — a framework agnostic library for all Vite-compatible tools.
 - [holybaechu/homelab](https://github.com/holybaechu/homelab) - A Kubernetes homelab setup using Talos Linux + ArgoCD optimized for single-node clusters
 
 ## 🦾 My skills
